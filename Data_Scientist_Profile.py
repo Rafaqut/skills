@@ -17,7 +17,7 @@ date = (time.strftime("%Y"))
 name = 'Raf M Rafaqut'
 bar_data_labels = ['Computer Science', 'Mathematics', 'Statistics', 'Machine Learning', 'Domain Expertise',
                    'Communication', 'Data Visualization']
-bar_data = [70, 60, 80, 60, 50, 65, 60]# ratings from 0 to 100.
+bar_data = [70, 55, 80, 60, 50, 65, 60]# ratings from 0 to 100.
 bar_data = pd.DataFrame(bar_data)
 
 # output path
